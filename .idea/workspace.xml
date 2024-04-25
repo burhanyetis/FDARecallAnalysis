@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13356993-6ffc-4ee0-bac6-493cda725ffa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/FDARecallAnalysis2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FDARecallAnalysis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/ApiClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/ApiClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor$$anonfun$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor$$anonfun$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor$$anonfun$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor$$anonfun$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor$$anonfun$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor$$anonfun$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor$$anonfun$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor$$anonfun$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor$$anonfun$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor$$anonfun$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/DataProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/Main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/Main$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dataprocessing/spark/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/FDARecallAnalysis-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/FDARecallAnalysis-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/maven-archiver/pom.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2fZoTRXXy2IisXpgIfxxQ3HmBp8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/burhanyetis/IdeaProjects/FDARecallAnalysis&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.dataprocessing.spark.Main" />
+      <module name="FDARecallAnalysis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dataprocessing.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13356993-6ffc-4ee0-bac6-493cda725ffa" name="Changes" comment="" />
+      <created>1714017967324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714017967324</updated>
+      <workItem from="1714017968862" duration="2166000" />
+      <workItem from="1714020142893" duration="305000" />
+      <workItem from="1714020501665" duration="721000" />
+      <workItem from="1714021230386" duration="349000" />
+      <workItem from="1714021583126" duration="67000" />
+      <workItem from="1714021655955" duration="1247000" />
+      <workItem from="1714022933247" duration="9266000" />
+      <workItem from="1714038038931" duration="108000" />
+      <workItem from="1714038156005" duration="114000" />
+      <workItem from="1714038275522" duration="3133000" />
+      <workItem from="1714042967140" duration="23000" />
+      <workItem from="1714043008654" duration="282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
